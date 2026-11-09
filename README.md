@@ -2,7 +2,7 @@
 
 A voice agent prototype that helps you learn vocabulary. Lexi reads a definition aloud, you say the word, and she gives instant feedback, an example sentence, hints, and re-queues words you missed.
 
-**Live demo:** https://YOUR-USERNAME.github.io/lexi-voice-vocab/
+**Live demo:** https://adminture.github.io/lexi-voice-vocab/
 
 ## How it works
 - Text-to-speech and speech recognition via the browser's Web Speech API (no backend, no API keys)
